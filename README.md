@@ -40,6 +40,8 @@ The **MIT License** was chosen for this project because it is simple, permissive
 - **Real-time Calculation Result**: Display the result of the calculation as the user types. This enhancement is tracked [here](https://github.com/AmardeepKaur004/SimpleCalculatorApp/issues/1).
 - **Button Highlight on Press**: Add visual feedback (button highlight) when a button is pressed. This enhancement is tracked [here](https://github.com/AmardeepKaur004/SimpleCalculatorApp/issues/2).
 
+## Project Wiki
+- [Source Control for Simple Calculator App](https://github.com/AmardeepKaur004/SimpleCalculatorApp/wiki/Source-Control-for-Simple-Calculator-App)
 
 
 

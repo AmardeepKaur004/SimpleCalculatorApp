@@ -32,11 +32,11 @@ Before you can build and run the Simple Calculator app, ensure you have the foll
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
-### Why the MIT License?
+# Why the MIT License?
 
 The **MIT License** was chosen for this project because it is simple, permissive, and widely adopted. It allows anyone to freely use, modify, and distribute the project, with minimal restrictions, making it ideal for open-source projects. The only condition is that the original copyright and permission notice must be included in any copies or substantial portions of the software.
 
-## Planned Enhancements:
+# Planned Enhancements:
 - **Real-time Calculation Result**: Display the result of the calculation as the user types. This enhancement is tracked [here](https://github.com/AmardeepKaur004/SimpleCalculatorApp/issues/1).
 - **Button Highlight on Press**: Add visual feedback (button highlight) when a button is pressed. This enhancement is tracked [here](https://github.com/AmardeepKaur004/SimpleCalculatorApp/issues/2).
 

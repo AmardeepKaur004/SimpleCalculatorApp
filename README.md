@@ -28,3 +28,12 @@ Before you can build and run the Simple Calculator app, ensure you have the foll
    ```bash
    git clone https://github.com/username/simple_calculator_app.git
 
+   ## License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
+### Why the MIT License?
+
+The **MIT License** was chosen for this project because it is simple, permissive, and widely adopted. It allows anyone to freely use, modify, and distribute the project, with minimal restrictions, making it ideal for open-source projects. The only condition is that the original copyright and permission notice must be included in any copies or substantial portions of the software.
+
+

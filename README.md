@@ -1,16 +1,30 @@
-# simple_calculator_app
+# Simple Calculator App
 
-A new Flutter project.
+## Purpose
+The **Simple Calculator App** is a basic mobile and web application built using **Dart** and **Flutter**. It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
-## Getting Started
+## Features
+- Simple and user-friendly interface.
+- Supports basic arithmetic operations: addition, subtraction, multiplication, and division.
+- Built using **Flutter**, allowing it to run on both **mobile devices** and **web browsers**.
+- Designed to be lightweight and efficient.
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- **Dart** – The programming language for building the app.
+- **Flutter** – The framework used to build the app's user interface and logic.
+- **Visual Studio Code** – The Integrated Development Environment (IDE) used for development.
 
-A few resources to get you started if this is your first Flutter project:
+## Prerequisites
+Before you can build and run the Simple Calculator app, ensure you have the following installed:
+1. **Flutter**: [Flutter installation guide](https://flutter.dev/docs/get-started/install)
+2. **Dart**: [Dart installation guide](https://dart.dev/get-dart)
+3. **Visual Studio Code**: [Visual Studio Code installation](https://code.visualstudio.com/)
+4. **Android Emulator** or **iOS Simulator** (for mobile platforms).
+5. A web browser (for running the app in the browser).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation and Setup
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository** to your local machine:
+   ```bash
+   git clone https://github.com/username/simple_calculator_app.git
+

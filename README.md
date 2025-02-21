@@ -26,7 +26,7 @@ Before you can build and run the Simple Calculator app, ensure you have the foll
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/username/simple_calculator_app.git
+   git clone https://github.com/AmardeepKaur004/SimpleCalculatorApp.git
 
    ## License
 
